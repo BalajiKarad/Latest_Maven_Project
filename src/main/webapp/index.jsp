@@ -10,6 +10,6 @@ Facebook homepage   <br>
 Profile    <br>  
 This page helps us to understand how metaverse works. <br>  
 <br>  
-And, this section helps you to understand how you can join the metaverse.  
+ this section helps you to understand how you can join the metaverse.  
 </Body>  
 </Html>  
