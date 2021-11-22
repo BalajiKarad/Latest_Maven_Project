@@ -5,7 +5,7 @@
 Add the Background image using background attribute   
 </Title>  
 </Head>  
-<Body background="https://cdn.mos.cms.futurecdn.net/HoWB3DhRxjab5cXCig7dgg-320-80.jpg">   
+<Body background="https://www.mastercard.com/news/media/fy3fynpb/ceros-forpdf.jpg">   
 MasterCard Logo   <br>  
  </Body>  
 </Html>  
