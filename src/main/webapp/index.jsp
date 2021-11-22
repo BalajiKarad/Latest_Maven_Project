@@ -6,9 +6,9 @@ Add the Background image using background attribute
 </Title>  
 </Head> 
  
- <p style="color:red;"> MasterCard </p>  <br>
+ <p style="color:red;"> <h3> MasterCard <h3> </p>  <br>
  
-<Body background="https://ichef.bbci.co.uk/news/976/cpsprodpb/C75F/production/_117793015_gettyimages-1159840867.jpg" width="1000" height="1000">   
+<Body background="https://cdn2.downdetector.com/static/uploads/logo/mastercard.jpg">   
   
  </Body>  
 </Html>  
