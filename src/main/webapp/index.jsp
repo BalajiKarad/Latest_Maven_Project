@@ -6,9 +6,9 @@ Add the Background image using background attribute
 </Title>  
 </Head> 
  
- <p style="color:red;"> <h3> MasterCard <h3> </p>  <br>
+ <p<h3 style="color:red;">> MasterCard <h3> </p>  <br>
  
-<Body background="https://cdn2.downdetector.com/static/uploads/logo/mastercard.jpg">   
+<Body background="http://lofrev.net/wp-content/photos/2016/11/mastercard_logo_15.jpg">   
   
  </Body>  
 </Html>  
