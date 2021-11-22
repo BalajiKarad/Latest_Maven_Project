@@ -5,7 +5,7 @@
 Add the Background image using background attribute   
 </Title>  
 </Head>  
-<Body background="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/2560px-Mastercard-logo.svg.png">   
+<Body background="https://www.underconsideration.com/brandnew/archives/mastercard_logo_before_after.png">   
 Facebook homepage   <br>  
 Profile    <br>  
 This page helps us to understand how metaverse works. <br>  
