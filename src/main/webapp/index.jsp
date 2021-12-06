@@ -6,7 +6,9 @@ MasterCard Dashboard
 </Title>  
 </Head>  
  <p style="color:red;font-size:30px;"> MasterCard </p>
-  <Body background="https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png">   
- </Body>  
  <p style="color:blue;"> Mastercard is a leading global payments & technology company that connects consumers, businesses, merchants, issuers & governments around the world.</p>
+ <!-- <Body background="https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png"> -->
+ <img src="D:/MasterCard_Logo.jpg" alt="MasterCard" width="500" height="600">
+ </Body>  
+ 
 </Html>
